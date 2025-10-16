@@ -1,0 +1,6 @@
+# Ignorar dependencias locales, ya que se instalarán dentro del contenedor
+node_modules
+
+# Logs y archivos de entorno
+npm-debug.log
+.env
